@@ -16,7 +16,7 @@
 }
 
 body {
-    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.jpg);
+    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(/Users/kylejudd/Desktop/Udemy/Javascript/Course-Content/complete-javascript-course/4-DOM-pig-game/starter/images/background.jpg);
     background-size: cover;
     background-position: center;
     font-family: Lato;
